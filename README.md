@@ -6,6 +6,7 @@ python get_bazzball_average_changes.py
 Output (on 11/03/24)
 
 │ player      | Stokes_ave | not_stokes_ave | increase │
+| ----------- | ---------- | -------------- | -------- |
 │ Z Crawley   | 36.59      | 27.81          | 8.78     │
 │ BM Duckett  | 46.68      | 15.71          | 30.97    │
 │ OJ Pope     | 37.97      | 29.65          | 8.32     │
