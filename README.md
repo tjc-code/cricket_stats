@@ -1,3 +1,5 @@
+This is a small Python project to scrape [cricinfo](https://www.espncricinfo.com/) to get player data and check how England men's batters averages have changed as a result of Stokes and McCullum's leadership. 
+
 Run
 ```
 python get_bazzball_average_changes.py
